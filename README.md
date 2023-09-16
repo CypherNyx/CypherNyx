@@ -2,7 +2,7 @@
 
 👀 I’m interested in creating amazing web experiences and learning the ropes of front-end development.
 
-🌱 I’m currently learning JavaScript and expanding my skills in HTML and CSS.
+🌱 I’m currently learning React and expanding my skills in JavaScript, HTML and CSS.
 
 💞️ I’m looking to collaborate on exciting projects that involve user-centric design and cutting-edge technologies.
 
