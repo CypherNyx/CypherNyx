@@ -1,5 +1,8 @@
+<div >
+  <img src="https://cyphernyx.github.io/dahlia-portfolio-site/static/media/dahliaAvatar.6cfee709f8e111f77e3d.png" alt="Dahlia Avatar" width="300" align="right" />
+</div>
+
 # Howdy! I'm Dahlia! 👋
-![Dahlia Avatar](https://cyphernyx.github.io/dahlia-portfolio-site/static/media/dahliaAvatar.6cfee709f8e111f77e3d.png){: style="float: right; margin-right: 7px; margin-top: 7px;" }
 
  I'm an aspiring software developer with a passion for coding. 💻
 
