@@ -4,7 +4,7 @@
 
 ## Howdy! I'm Dahlia 👋
 
- I'm a passionate software developer with a strong love for coding and there's always more to learn! <br>
+ I love to code, and I'm always learning new things! <br>
  You can check out [my portfolio here >> 💻](https://cyphernyx.github.io/dahlia-portfolio-site/)
 
 ### About Me:
