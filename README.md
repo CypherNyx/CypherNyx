@@ -2,7 +2,7 @@
   <img src="https://cyphernyx.github.io/dahlia-portfolio-site/static/media/dahliaAvatar.6cfee709f8e111f77e3d.png" alt="Dahlia Avatar" width="250" align="right" />
 </div>
 
-## Howdy! I'm Dahlia! 👋
+## Howdy! I'm Dahlia 👋
 
  I'm a passionate software developer with a strong love for coding and there's always more to learn! <br>
  You can check out [my portfolio here >> 💻](https://cyphernyx.github.io/dahlia-portfolio-site/)
