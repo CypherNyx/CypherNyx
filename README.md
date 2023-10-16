@@ -5,7 +5,7 @@
 ## Howdy! I'm Dahlia! 👋
 
  I'm a passionate software developer with a strong love for coding. <br>
- You can check out <a href="https://cyphernyx.github.io/dahlia-portfolio-site/" target="_blank">my portfolio here >> 💻</a>
+ You can check out [my portfolio here >> 💻](https://cyphernyx.github.io/dahlia-portfolio-site/)
 
 ### About Me:
 
