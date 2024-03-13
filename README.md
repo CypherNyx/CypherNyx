@@ -1,8 +1,9 @@
+
+
+## Howdy! I'm Dahlia 👋
 <div >
   <img src="https://cyphernyx.github.io/dahlia-portfolio-site/static/media/dahliaAvatar.6cfee709f8e111f77e3d.png" alt="Dahlia Avatar" width="250" align="right" />
 </div>
-
-## Howdy! I'm Dahlia 👋
 
  I love to code, and I'm always learning new things! <br>
  You can check out [my portfolio here >> 💻](https://cyphernyx.github.io/dahlia-portfolio-site/)
